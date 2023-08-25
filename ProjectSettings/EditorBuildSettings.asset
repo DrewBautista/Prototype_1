@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main 1.unity
+    guid: d1c6bab6748f47648ac563d3b1969685
+  - enabled: 1
+    path: Assets/Scenes/Main 1.0/E 1.unity
+    guid: 23c8e4f7d4930794f817133ddb304e42
+  - enabled: 1
+    path: Assets/Scenes/Main 1.0/NCB 1.unity
+    guid: 1018349687730e749b5f7f628c8707a9
+  - enabled: 1
+    path: Assets/Scenes/Main 1.0/CHIM 1.unity
+    guid: bee50ba346f78d24eba9a05baf8b624f
+  - enabled: 1
+    path: Assets/Scenes/Main 1.0/U 1.unity
+    guid: df1405d57f4dd2a47858a47b39b0fa4f
+  - enabled: 1
+    path: Assets/Scenes/Main 1.0/L 1.unity
+    guid: 22c4f712d64967d4697df0ea2802e5be
+  - enabled: 1
+    path: Assets/Scenes/Main 1.0/O 1.unity
+    guid: 882851b89607a4c42a1eceb68e341931
+  - enabled: 1
+    path: Assets/Scenes/Professor/Sir EC.unity
+    guid: 13dfdcb777f77be4cb72271b34da6c35
+  - enabled: 1
+    path: Assets/Scenes/Professor/Sir BOSE.unity
+    guid: fdd577170a13f1d41bdbd6ed74bd7c4f
+  - enabled: 1
+    path: Assets/Scenes/Professor/Sir BAUTISTA.unity
+    guid: 5265b10420b8c254dbd3be906477c924
+  - enabled: 1
+    path: Assets/Scenes/Main 2.unity
+    guid: 857eb60b493d39845b6365f266bb0f37
+  - enabled: 1
+    path: Assets/Scenes/Main 2.0/E 2.unity
+    guid: c62422da90cfe7d43b9e9e49e6ef63d6
+  - enabled: 1
+    path: Assets/Scenes/Main 2.0/NCB 2.unity
+    guid: ae10a8eac1ce93744902c1e8a027fa04
+  - enabled: 1
+    path: Assets/Scenes/Main 2.0/CHIM 2.unity
+    guid: 401a71a02af21df40b3994229b08fecb
+  - enabled: 1
+    path: Assets/Scenes/Main 2.0/U 2.unity
+    guid: 54cddc49151608f4faa02a553b64fab7
+  - enabled: 1
+    path: Assets/Scenes/Main 2.0/L 2.unity
+    guid: 4a633b671ac21754aa0f00c67de32143
+  - enabled: 1
+    path: Assets/Scenes/Main 2.0/O 2.unity
+    guid: 4af717601bd83d447b8a72f52df1992a
+  - enabled: 1
+    path: Assets/Scenes/Rooms/E Rooms.unity
+    guid: 342fd122e6509cc4e9c9658c4875d84b
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e152012250de9474fb06f1874e1cd082,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: aecaabcfcbb22c84d8104b339eeae7e8, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 72fc550b9e8d8e243835ee36c72ad415,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cf65ee69937e38244807152d89c5ba2a,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
